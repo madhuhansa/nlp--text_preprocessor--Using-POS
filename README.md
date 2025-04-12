@@ -29,13 +29,12 @@ This project is a beginner-friendly tool for cleaning raw text data using **POS 
 ├── text_analize.ipynb # Jupyter Notebook for backend understanding
 └── README.md              # This file
 ```
-
-🧠 Learning Objectives
+---
+### 🧠 Learning Objectives
 <li>Understand emoji removal techniques</li>
 <li>Learn how POS tagging works in spaCy</li>
 <li>Practice custom filtering with Penn Treebank tag sets</li>
 <li>Build basic data-cleaning tools with Python</li>
----
 
 ## ⚠️ Limitations
 
